@@ -1,4 +1,5 @@
 # PHP-CSV-To-Table
+```php
 Import CSV and Output to Table
 
 // Function Parameters
@@ -7,7 +8,7 @@ get_csv_data($csv,$column_name,$all);
 $csv - This will have the path to your csv file.
 $column_name - The column you want to return data for.
 $all - Return all results
-
+```
 
 # USAGE
 

@@ -10,7 +10,7 @@ $column_name - The column you want to return data for.
 $all - Return all results
 ```
 
-# USAGE
+# Usage
 
 ```php
 // Path to CSV

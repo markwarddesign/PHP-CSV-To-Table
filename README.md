@@ -11,6 +11,7 @@ $all - Return all results
 
 # USAGE
 
+```php
 // Path to CSV
 $csv = "your-path-to-csv-here";
 
@@ -29,3 +30,4 @@ foreach($all_data as $row){
 	echo $row;
 }
 echo '</table>';
+```
